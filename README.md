@@ -1,1 +1,0 @@
-# firebase-cloud-func-example
